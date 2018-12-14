@@ -2,7 +2,7 @@
 
 This dataset was generated from Multi-PIE face dataset [1, 2]. In this repository, we just published image name from Multi-PIE face dataset and detected ear coordinates. You can use face images and corresponding coordinates to obtain ear images.
 
-This dataset has been explained and has been used in our paper. Please cite it, if it is helpful for you.
+This dataset has been explained and has been used in [our paper](https://arxiv.org/abs/1803.07801). Please cite it, if it is helpful for you.
 ```
 @article{eyiokur2017domain,
   title={Domain adaptation for ear recognition using deep convolutional neural networks},
